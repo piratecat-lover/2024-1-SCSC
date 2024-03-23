@@ -1,0 +1,181 @@
+[
+  {
+    "type": 0,
+    "id": 0,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "초중고 12년동안 열심히 공부해서 원하는 대학의 원하는 학과에 합격한 당신!오늘은 기다리던 신입생 환영회가 있는 날이다.",
+    "next": 188
+  },
+  {
+    "type": 0,
+    "id": 188,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "환영회 시작 전 새로운 친구들과 이야기하던 당신은한 소녀를 보고 사랑에 빠지게 되었다.",
+    "next": 288
+  },
+  {
+    "type": 0,
+    "id": 288,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "외모는 물론, 아무 말이나 해도 받아줄 정도로 착한 성격을 가진 그녀는완벽한 나의 이상형이었다.",
+    "next": 388
+  },
+  {
+    "type": 0,
+    "id": 388,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "환영회가 끝난 후, 당신은 그녀에게 다가가용기내어 말을 걸어본다.",
+    "next": 488
+  },
+  {
+    "type": 0,
+    "id": 588,
+    "name": "JavaScript",
+    "background": "pub_night.jpg",
+    "object": "kiss_js.png",
+    "script": "“아..안녕 난 JavaScript라고 해, 너도 신입생이야? 아, 맞다 자, 여기 내 연락처야.”",
+    "next": 688
+  },
+  {
+    "type": 0,
+    "id": 688,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "얼떨결에 이름은 물론 전화번호까지 알게 되었다.",
+    "next": 788
+  },
+  {
+    "type": 0,
+    "id": 788,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "시간이 늦어, 집에 가기 위해 버스를 기다리던 당신은 그녀를 발견하고 다시 말을 걸었다.",
+    "next": 888
+  },
+  {
+    "type": 0,
+    "id": 888,
+    "name": "<ME>",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "“혹시, 너도 이 버스 타는거야?”",
+    "next": 988
+  },
+  {
+    "type": 0,
+    "id": 988,
+    "name": "JavaScript",
+    "background": "pub_night.jpg",
+    "object": "kiss_js.png",
+    "script": "“아, 응. 같이 타고 갈래?”",
+    "next": 1088
+  },
+  {
+    "type": 0,
+    "id": 1088,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "당신은 버스에서 그녀와 이런저런 이야기를 나누게 되었다.",
+    "next": 1188
+  },
+  {
+    "type": 0,
+    "id": 1188,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "당신과 그녀는 같은 정거장에서 내렸고 이제 헤어질 시간이었다.",
+    "next": 1288
+  },
+  {
+    "type": 0,
+    "id": 1288,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "하지만, 당신은 이대로 헤어지면 안 될것 같은 기분이 들었다.",
+    "next": 1388
+  },
+  {
+    "type": 0,
+    "id": 1388,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "당신은 용기를 내어보기로 했다. 차여도 군대가면 되니까.",
+    "next": 1488
+  },
+  {
+    "type": 0,
+    "id": 1588,
+    "name": "",
+    "background": "pub_night.jpg",
+    "object": "love_js.png",
+    "script": "그녀는 순간 당황한 듯 얼굴을 붉히고는 큰소리로 외쳤다.",
+    "next": 1688
+  },
+  {
+    "type": 0,
+    "id": 1688,
+    "name": "JavaScript",
+    "background": "pub_night.jpg",
+    "object": "love_js.png",
+    "script": "\"나도!!\"",
+    "next": 1788
+  },
+  {
+    "type": 1,
+    "id": 488,
+    "name": "<ME>",
+    "background": "pub_night.jpg",
+    "object": "def_js.png",
+    "script": "(일단 이름부터 알려주자.)",
+    "select": [
+      [
+        "“나..이름...<ME>..”",
+        300
+      ],
+      [
+        "“안녕, 난 <ME>야.”",
+        300
+      ]
+    ],
+    "next": 588
+  },
+  {
+    "type": 1,
+    "id": 1488,
+    "name": "<ME>",
+    "background": "pub_night.jpg",
+    "object": "love_js.png",
+    "script": "(지금이야!)",
+    "select": [
+      [
+        "“사...사...”",
+        900
+      ],
+      [
+        "“사랑해!!”",
+        900
+      ]
+    ],
+    "next": 1588
+  },
+  {
+    "type": 3,
+    "id": 1788,
+    "background": "pub_night.jpg",
+    "script": "그렇게 당신과 JavaScript는 만난지 하루도 안되어 사귀게 되었다."
+  }
+]
