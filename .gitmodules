@@ -4,3 +4,6 @@
 [submodule "Fund_DL/Fundamentals-of-Deep-Learning-Book"]
 	path = Fund_DL/Fundamentals-of-Deep-Learning-Book
 	url = https://github.com/piratecat-lover/Fundamentals-of-Deep-Learning-Book.git
+[submodule "PyTorch/PyTorch_SC"]
+	path = PyTorch/PyTorch_SC
+	url = https://github.com/piratecat-lover/PyTorch_SC.git
