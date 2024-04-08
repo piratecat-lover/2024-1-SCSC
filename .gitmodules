@@ -1,3 +1,6 @@
 [submodule "PyTorch/source_code"]
 	path = PyTorch/source_code
 	url = https://github.com/gilbutITbook/080289
+[submodule "Fund_DL/Fundamentals-of-Deep-Learning-Book"]
+	path = Fund_DL/Fundamentals-of-Deep-Learning-Book
+	url = https://github.com/piratecat-lover/Fundamentals-of-Deep-Learning-Book.git
